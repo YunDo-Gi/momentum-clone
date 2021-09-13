@@ -1,3 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Glory&display=swap");
+
+body {
+  font-family: "Glory", sans-serif;
+}
+
 .hidden {
   display: none;
 }
